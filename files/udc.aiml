@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Hi</pattern>
+    <template>Hello, I am Oona, Jubei's Ace Place Bot, how can I help you?</template>
+</category>
+<category>
+    <pattern>Hello</pattern>
+    <template>Hello, I am Oona, Jubei's Ace Place Bot, how can I help you?</template>
+</category>
+<category>
+    <pattern>Hiya</pattern>
+    <template>Hello, I am Oona, Jubei's Ace Place Bot, how can I help you?</template>
+</category>
+</aiml>
